@@ -1814,6 +1814,13 @@ let cards = [
     imageLink: './Art/Sayed-Husain/hover.gif',
     author: 'Sayed-Husain',
     githubLink: 'https://github.com/Sayed-Husain'
+  },
+  {
+    artName: 'Click Animation',
+    pageLink: './Art/JohnRuben717/index.html',
+    imageLink: './Art/Sayed-JohnRuben717/Click-Animation.gif',
+    author: 'JohnRuben717',
+    githubLink: 'https://github.com/JohnRuben717'
   }
 ];
 
