@@ -1818,7 +1818,7 @@ let cards = [
   {
     artName: 'Click Animation',
     pageLink: './Art/JohnRuben717/index.html',
-    imageLink: './Art/Sayed-JohnRuben717/Click-Animation.gif',
+    imageLink: './Art/JohnRuben717/Click-Animation.gif',
     author: 'JohnRuben717',
     githubLink: 'https://github.com/JohnRuben717'
   }
