@@ -1816,7 +1816,7 @@ let cards = [
     githubLink: 'https://github.com/Sayed-Husain'
   },
   {
-    artName: 'Click Animation',
+    artName: 'Click-Animation',
     pageLink: './Art/JohnRuben717/index.html',
     imageLink: './Art/JohnRuben717/Click-Animation.gif',
     author: 'JohnRuben717',
